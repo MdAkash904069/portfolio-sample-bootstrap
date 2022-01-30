@@ -1,0 +1,44 @@
+h1,h2,h3,h4,h5,h6,div,span,body{
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-nav li a i{
+    font-size: 20px;
+}
+.carousel-item img{
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-position: absolute;
+}
+.navbar{
+    position: absolute;
+    width: 100%;
+    background: #494b4b18;
+    z-index: 10;
+    border-bottom: 1px solid #fff;
+
+}
+.nav-item ul{
+    background-color: black;
+}
+.nav-item ul li a{
+    color: #fff!important;
+}
+.nav-item ul li a:hover{
+    color: #fff!important;
+    background-color: black;
+}
+.nav-item a{
+    color: #fff!important;
+}
+.nav-item:hover a{
+    color: #0ff!important;
+}
+.navbar-collapse ul{
+    margin-left: 80px;
+}
+
+
+.card img{
+    height: 200px;
+}
